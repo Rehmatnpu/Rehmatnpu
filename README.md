@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rehmatnpu
-- 👀 I’m interested in biology 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on proofreading article
+- 👀 I’m interested in nanobiology and microbiology 
+- 🌱 I’m currently learning AI with phyton for computational biology
+- 💞️ I’m interested in spatial biology tools and techniques
 - 📫 How to reach me email me
 
 <!---
