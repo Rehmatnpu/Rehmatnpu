@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rehmatnpu
-- 👀 I’m interested in nanobiology and microbiology 
-- 🌱 I’m currently learning AI with phyton for computational biology
-- 💞️ I’m interested in spatial biology tools and techniques
+- I’m interested in Nanoscience and Microbiology 
+- I’m currently learning R and Phyton for data analysis
 - 📫 How to reach me email me
 
 <!---
